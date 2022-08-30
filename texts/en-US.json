@@ -1,0 +1,7 @@
+{
+    "empty_audio": "[ERROR: Could not process audio, check there's voice in the file and the audio is not too long (aprox 2 min)]",
+    "result": "RESULT: ",
+    "processing": "Processing audio...",
+    "help": "Send an audio file to this bot and it will answer with the transcription of the audio",
+    "unrecognised_audio": "Unknown audio format"
+}
